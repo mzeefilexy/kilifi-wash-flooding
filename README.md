@@ -17,28 +17,6 @@ This repository is organized into code, documentation, and metadata components t
   - `sensitivity_analysis_colab_ready.py`  
     Supplementary bounded outcome sensitivity analyses.
 
-- `docs/`  
-  Contains supporting documentation.
-  - `methods_reproducibility_notes.md`
-  - `reviewer_response_summary.md`
-  - `figures_tables_manifest.md`
-
-- `data/`  
-  Contains metadata, data dictionaries, and placeholders only unless permissions allow data sharing.
-  - `README_data.md`
-  - `example_or_metadata_only/`
-
-- `outputs/`  
-  Recommended location for model outputs, tables, and figures generated from the code.
-
-- `requirements.txt`  
-  Python package requirements.
-
-- `LICENSE`  
-  Repository license.
-
-- `CITATION.cff`  
-  Citation metadata for the repository.
 
 ## Software requirements
 
@@ -56,17 +34,3 @@ The code was developed in Python and Google Earth Engine. The following packages
 - patsy
 - jupyter
 
-A suggested `requirements.txt` file is:
-
-```text
-earthengine-api
-geemap
-pandas
-geopandas
-numpy
-statsmodels
-scipy
-matplotlib
-scikit-learn
-patsy
-jupyter
