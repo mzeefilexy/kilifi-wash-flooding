@@ -34,3 +34,10 @@ The code was developed in Python and Google Earth Engine. The following packages
 - patsy
 - jupyter
 
+## Citation
+If you use this code, please cite:
+Oluoch F, Ondiek RI, Gudda F, et al. Satellite-Derived Longitudinal Evidence of
+Flood Effects on Community Water and Sanitation Resilience in Coastal Kenya.
+BMC Global and Public Health. 2026. [DOI to be added]
+
+Code archive: [Zenodo DOI badge here]
