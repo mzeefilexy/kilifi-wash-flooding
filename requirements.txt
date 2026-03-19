@@ -1,0 +1,18 @@
+# Requirements for kilifi-wash-flooding
+# Flood exposure mapping (Google Earth Engine)
+earthengine-api
+geemap
+
+# Data handling
+pandas
+geopandas
+numpy
+
+# Statistical modelling
+statsmodels
+scipy
+scikit-learn
+patsy
+
+# Visualisation
+matplotlib
