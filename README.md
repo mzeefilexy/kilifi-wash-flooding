@@ -36,11 +36,11 @@ The code was developed in Python and Google Earth Engine. The following packages
 
 # Data Access
 
-This repository contains analysis code only. No individual-level or CHU-level data are included.
+This repository contains analysis code including the aggregated CHU level analytic dataset that supports the findings of this study .
 
 ## CHU-level surveillance data
 
-The aggregated Community Health Unit (CHU) level dataset on safe water access, functional latrine access, and household characteristics was derived from the Kaloleni Rabai Health and Demographic Surveillance System (KRHDSS) in Kilifi County, Kenya. This dataset is available from the corresponding author (Dr Felix Oluoch, oluoch.felix@aku.edu) on reasonable request, subject to approval by the KRHDSS governance structures and the Aga Khan University Institutional Ethics Review Committee.
+The aggregated Community Health Unit level dataset on safe water access, functional latrine access, and household characteristics was derived from the Kaloleni Rabai Health and Demographic Surveillance System in Kilifi County, Kenya, and compiled with oversight from KRHDSS governance structures and the Aga Khan University Institutional Ethics Review Committee.
 
 ## Publicly available geospatial datasets
 
